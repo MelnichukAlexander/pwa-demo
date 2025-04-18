@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2em;
+  background: #f0f0f0;
+}
+img {
+  max-width: 80%;
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
+button {
+  padding: 1em;
+  margin: 0.5em;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
